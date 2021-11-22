@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOVISOR NOVISOR NOVISOR NOVISOR!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE WILL MAKE YOU ONE OF US!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOVISOR NOVISOR NOVISOR NOVISOR!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE WILL MAKE YOU ONE OF US!!!!"
+		}
+	]
+}

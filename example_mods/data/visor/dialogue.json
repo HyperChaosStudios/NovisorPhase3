@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "duncan-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello, can I help you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh nothing, we're looking for someone to\\nrapbattle me, what are you up to?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duncan-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "selling some junk but hey, I can rapbattle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's good by the way, let's takeoff the\\nrapbattle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright"
+		}
+	]
+}

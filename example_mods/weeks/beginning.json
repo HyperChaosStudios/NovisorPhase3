@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Visor",
+			"visor",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Corrupted",
+			"novisor",
+			[
+				140,
+				0,
+				0
+			]
+		],
+		[
+			"Trapped",
+			"monster-novisor",
+			[
+				46,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "novisor",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Beginning",
+	"weekName": "Beginning",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

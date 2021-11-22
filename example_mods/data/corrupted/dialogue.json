@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "novisor",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Novisor Novisor Novisor Novisor Novisor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisor",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "We will make you one of us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisor",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Novisor Novisor Novisor Novisor Novisor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisor",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "We will make you one of us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAGH!!!!!!!!!!!!!!"
+		}
+	]
+}
